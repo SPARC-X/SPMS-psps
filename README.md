@@ -10,6 +10,12 @@
 ### License
 * Distributed under GNU General Public License 3 (GPL) (https://www.gnu.org/licenses/)
 
+### Authors
+* Mostafa Faghih Shojaei (GT)
+* John E. Pask (LLNL)
+* Andrew J Medford (GT)
+* Phanish Suryanarayana (GT, phanish.suryanarayana@ce.gatech.edu)
+
 ### Citation
 * https://doi.org/10.48550/arXiv.2209.09806
 
