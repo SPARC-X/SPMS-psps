@@ -13,7 +13,7 @@
 ### Authors
 * Mostafa Faghih Shojaei (GT)
 * John E. Pask (LLNL)
-* Andrew J Medford (GT)
+* Andrew J. Medford (GT)
 * Phanish Suryanarayana (GT, phanish.suryanarayana@ce.gatech.edu)
 
 ### Citation
