@@ -31,7 +31,7 @@
 * Phanish Suryanarayana (GT, phanish.suryanarayana@ce.gatech.edu)
 
 ### Citation
-* https://doi.org/10.48550/arXiv.2209.09806
+* https://doi.org/10.1016/j.cpc.2022.108594
 
 ### Acknowledgement
 * U.S. Department of Energy (DOE), Office of Science (SC): DE-SC0019410
