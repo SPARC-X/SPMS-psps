@@ -18,7 +18,7 @@
 * Naming scheme: AtomicNumber_ChemicalElement_NumberValenceElectrons_min-rcore_max-rcore_NonlinearCoreCorrectionFlag_VersionNumber.psp8/upf
 * PBE exchange-correlation functional
 * Nonlinear core correction (NLCC) for most chemical elements
-* Estimates of planewave cutoff (Ecut) in planewave calculations and mesh-size in real-space calculations for accuracies of 1e-3 Ha/atom and 1e-4 Ha/atom provided within the pseudopotential files. **These are rough estimates. Actual spacing should always be determined by refining the mesh until desired error is achieved.**
+* Estimates of planewave cutoff (Ecut) in planewave calculations and mesh-size in real-space calculations for accuracies of 1e-3 Ha/atom and 1e-4 Ha/atom provided within the pseudopotential files. **These are estimates. Actual spacing should always be determined by refining the mesh (or equivalently increasing Ecut) until desired error is achieved.**
 * Detailed results and comparisons for each chemical element available in [SPMS_v1.0.pdf](SPMS_v1.0.pdf)
 
 ### License
